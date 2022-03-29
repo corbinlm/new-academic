@@ -18,7 +18,7 @@ authors:
   - Stéphane Lavertu
   - admin
 author_notes: []
-publication: _Economics of Education Review_, 85.
+publication: _Economics of Education Review_, 85
 summary: ""
 url_dataset: ""
 url_project: ""
