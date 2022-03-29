@@ -18,9 +18,7 @@ authors:
   - Stéphane Lavertu
   - admin
 author_notes: []
-publication: "Cook, J., Lavertu, S., and Miller, C. (2021). Rent-Seeking through
-  collective bargaining: Teachers unions and education production. _Economics of
-  Education Review_, 85."
+publication: _Economics of Education Review_, 85.
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -48,9 +46,9 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-date: 2022-03-29T23:19:05.946Z
+date: 2021-12-12T14:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
