@@ -18,10 +18,7 @@ content:
     folders:
       - publication
     tag: ''
-    category:
-	  - Health
-	  - Education
-	  - Labor
+    category: ''
     publication_type: ''
     author: ''
     exclude_featured: false
@@ -38,7 +35,3 @@ design:
   view: citation
   columns: '2'
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
