@@ -13,7 +13,7 @@ publication: _Journal of Public Economics_, Conditionally Accepted
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: "JPubE"
+publication_short: ""
 url_source: ""
 url_video: ""
 subtitle: ""
