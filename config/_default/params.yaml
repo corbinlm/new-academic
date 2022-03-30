@@ -18,10 +18,10 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Corbin Miller is an economist in the Office of Tax Analysis at the U.S. Department of the Treasury. He is passionate about making use of administrative data to answer questions about how public policy can improve welfare and decrease inequality. His research interests include Public Finance, the Economics of Education, Health Economics, and Labor Economics. He received a PhD in Economics from Cornell University in 2018.'
+    twitter: 'corbinlmiller'
   analytics:
-    google_analytics: ''
+    google_analytics: 'UA-147186875-1'
     baidu_tongji: ''
   verification:
     google: ''
@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year}'
     license:
       enable: true
       allow_derivatives: false
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/corbinlm/new-academic'
     content_dir: content
     branch: master
   avatar:
@@ -84,7 +84,7 @@ features:
     commento:
       url: ''
   search:
-    provider: wowchemy
+    provider: ''
     algolia:
       app_id: ''
       api_key: ''
