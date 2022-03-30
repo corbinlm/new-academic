@@ -10,7 +10,7 @@ abstract: We explore how teachers unions affect education production by
   rent seeking on education production, as the timing of district tax elections
   relative to collective bargaining appears to be as good as random.
 slides: ""
-url_pdf: ""
+url_pdf: "https://www.edworkingpapers.com/sites/default/files/ai20-316.pdf"
 publication_types:
   - "2"
 authors:
@@ -19,27 +19,27 @@ authors:
   - admin
 author_notes: []
 publication: _Economics of Education Review_, 85
-summary: ""
+summary: "This study, published in the Economics of Education Review, explores how teachers unions affect education production by comparing outcomes between districts allocating new tax revenue amidst collective bargaining negotiations and districts allocating tax revenue well before."
 url_dataset: ""
-url_project: ""
+url_project: "https://www.sciencedirect.com/science/article/abs/pii/S0272775721001084"
 publication_short: ""
 url_source: ""
 url_video: ""
 title: "Rent-Seeking through Collective Bargaining: Teachers Unions and
   Education Production"
 subtitle: ""
-doi: ""
+doi: "https://doi.org/10.1016/j.econedurev.2021.102193"
 featured: false
 tags:
-  - '"Education Finance"'
-  - '"Education"'
-  - '"Property Tax"'
-  - '"Teachers Unions"'
-  - '"Union Bargaining"'
+  - 'Education Finance'
+  - 'Education'
+  - 'Property Tax'
+  - 'Teachers Unions'
+  - 'Union Bargaining'
 categories:
-  - '"Public Finance"'
-  - '"Education"'
-  - '"Tax"'
+  - 'Public Finance'
+  - 'Education'
+  - 'Tax'
 projects: []
 image:
   caption: ""
