@@ -18,7 +18,10 @@ content:
     folders:
       - publication
     tag: ''
-    category: ''
+    category:
+	  - Health
+	  - Education
+	  - Labor
     publication_type: ''
     author: ''
     exclude_featured: false
