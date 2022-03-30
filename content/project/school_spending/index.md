@@ -10,6 +10,8 @@ authors:
   - John Klopfer
   - admin
 tags:
+  - Education
+  - Labor
   - Education Finance
   - Long-run Outcomes
   - Administrative Data
@@ -19,6 +21,7 @@ tags:
 categories:
   - Education
   - Public Finance
+  - Labor
 image:
   filename: 
   focal_point: ""

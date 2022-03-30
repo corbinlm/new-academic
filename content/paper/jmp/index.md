@@ -8,6 +8,7 @@ featured: false
 authors:
   - admin
 tags:
+  - Education
   - Education Finance
   - Property Tax
   - Student Achievement

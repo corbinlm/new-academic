@@ -13,6 +13,7 @@ tags:
   - Smoking Initiation
   - Cigarette Taxes
   - Social Interactions
+  - Health
 categories:
   - Health
   - Tax

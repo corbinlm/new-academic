@@ -15,6 +15,8 @@ tags:
   - Wage Premium
   - Administrative Data
   - Tax Data
+  - Health
+  - Labor
 categories:
   - Public Finance
   - Health
